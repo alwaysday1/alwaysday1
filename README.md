@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi，你好呀！
 
-我是一个 AI工程师 ，目前以 **Go** 和  **Python** 作为主力开发语言。当然，**MySQL**，**Redis** 等中间件也在持续精进中。
+我是一名AI工程师 ，目前以 **Go** 和  **Python** 作为主力开发语言。当然，**MySQL**，**Redis** 等中间件也在持续精进中。
 
 #### Contact Me
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alwaysday1)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysday1&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 #### 公众号
-**扫码**并后台回复「**goebook**」领取 Go 编程经典书籍，回复「**pdf**」领取上百本计算机经典书籍。欢迎关注，交流。
+**扫码**并后台回复「**gobook**」领取 Go 编程经典书籍，回复「**cspdf**」领取上百本计算机经典书籍。欢迎关注，交流。
 
 <center class="half">
     <img src="./qrcode_for_gh_933c20e14596_258.jpg" width="300"/>
