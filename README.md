@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 **扫码**并后台回复「**goebook**」领取 Go 编程经典书籍，回复「**pdf**」领取上百本计算机经典书籍。欢迎关注，交流。
 
 <center class="half">
-    <img src="" width="300"/>
+    <img src="./qrcode_for_gh_933c20e14596_258.jpg" width="300"/>
 </center>
