@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi，你好呀！
 
-我是一名AI工程师 ，目前以 **Go** 和  **Python** 作为主力开发语言。当然，**MySQL**，**Redis** 等中间件也在持续精进中。
+我是一名 AI 工程师 ，目前以 **Go** 和  **Python** 作为主力开发语言。当然，**MySQL**，**Redis** 等中间件也在持续精进中。
 
 #### Contact Me
 
