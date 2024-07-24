@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Contact Me
 
 * 微信公众号：**AI滚雪球**，分享 AI 前沿技术 和 实践踩坑经验。
-* 掘金技术社区：[AI滚雪球](https://juejin.cn/user/3861140569075230)，分享各类技术文章。
+* 掘金技术社区：[AI滚雪球](https://juejin.cn/user/3861140569075230/posts)，分享各类技术文章。
 
 #### Project
 
